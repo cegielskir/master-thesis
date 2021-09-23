@@ -1,0 +1,24 @@
+{
+  "name": "hyperflow-ai-task-optimization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "awsLambdaCommand.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cegielskir/hflow-task-execution-ai-optimizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cegielskir/hflow-task-execution-ai-optimizer/issues"
+  },
+  "homepage": "https://github.com/cegielskir/hflow-task-execution-ai-optimizer#readme",
+  "dependencies": {
+    "aws-sdk": "^2.770.0",
+    "request": "^2.88.2",
+    "requestretry": "^4.1.1"
+  }
+}
